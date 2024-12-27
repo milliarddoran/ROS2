@@ -1,0 +1,1 @@
+/home/rmi/ros2ws/src/build/differential_drive_robot/ament_cmake_environment_hooks/local_setup.bash

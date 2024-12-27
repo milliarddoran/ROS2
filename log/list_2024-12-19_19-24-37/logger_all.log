@@ -1,0 +1,80 @@
+[0.516s] DEBUG:colcon:Command line arguments: ['/usr/bin/colcon', 'list', '-p', '--base-paths', '/home/rmi/ros2ws']
+[0.516s] DEBUG:colcon:Parsed command line arguments: Namespace(log_base=None, log_level=None, verb_name='list', build_base='build', ignore_user_meta=False, metas=['./colcon.meta'], base_paths=['/home/rmi/ros2ws'], packages_ignore=None, packages_ignore_regex=None, paths=None, packages_up_to=None, packages_up_to_regex=None, packages_above=None, packages_above_and_dependencies=None, packages_above_depth=None, packages_select_by_dep=None, packages_skip_by_dep=None, packages_skip_up_to=None, packages_select_build_failed=False, packages_skip_build_finished=False, packages_select_test_failures=False, packages_skip_test_passed=False, packages_select=None, packages_skip=None, packages_select_regex=None, packages_skip_regex=None, packages_start=None, packages_end=None, allow_overriding=[], topological_order=False, names_only=False, paths_only=True, topological_graph=False, topological_graph_dot=False, topological_graph_density=False, topological_graph_legend=False, topological_graph_dot_cluster=False, topological_graph_dot_include_skipped=False, verb_parser=<colcon_defaults.argument_parser.defaults.DefaultArgumentsDecorator object at 0x7fe69929dbd0>, verb_extension=<colcon_package_information.verb.list.ListVerb object at 0x7fe69938e6b0>, main=<bound method ListVerb.main of <colcon_package_information.verb.list.ListVerb object at 0x7fe69938e6b0>>)
+[1.960s] Level 1:colcon.colcon_core.package_discovery:discover_packages(colcon_meta) check parameters
+[1.960s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) check parameters
+[1.960s] Level 1:colcon.colcon_core.package_discovery:discover_packages(ignore) check parameters
+[1.960s] Level 1:colcon.colcon_core.package_discovery:discover_packages(path) check parameters
+[1.963s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) discover
+[1.963s] INFO:colcon.colcon_core.package_discovery:Crawling recursively for packages in '/home/rmi/ros2ws'
+[1.964s] Level 1:colcon.colcon_core.package_identification:_identify(/home/rmi/ros2ws) by extensions ['ignore', 'ignore_ament_install']
+[1.964s] Level 1:colcon.colcon_core.package_identification:_identify(/home/rmi/ros2ws) by extension 'ignore'
+[1.964s] Level 1:colcon.colcon_core.package_identification:_identify(/home/rmi/ros2ws) by extension 'ignore_ament_install'
+[1.964s] Level 1:colcon.colcon_core.package_identification:_identify(/home/rmi/ros2ws) by extensions ['colcon_pkg']
+[1.964s] Level 1:colcon.colcon_core.package_identification:_identify(/home/rmi/ros2ws) by extension 'colcon_pkg'
+[1.964s] Level 1:colcon.colcon_core.package_identification:_identify(/home/rmi/ros2ws) by extensions ['colcon_meta']
+[1.964s] Level 1:colcon.colcon_core.package_identification:_identify(/home/rmi/ros2ws) by extension 'colcon_meta'
+[1.964s] Level 1:colcon.colcon_core.package_identification:_identify(/home/rmi/ros2ws) by extensions ['ros']
+[1.964s] Level 1:colcon.colcon_core.package_identification:_identify(/home/rmi/ros2ws) by extension 'ros'
+[2.043s] Level 1:colcon.colcon_core.package_identification:_identify(/home/rmi/ros2ws) by extensions ['cmake', 'python']
+[2.043s] Level 1:colcon.colcon_core.package_identification:_identify(/home/rmi/ros2ws) by extension 'cmake'
+[2.044s] Level 1:colcon.colcon_core.package_identification:_identify(/home/rmi/ros2ws) by extension 'python'
+[2.044s] Level 1:colcon.colcon_core.package_identification:_identify(/home/rmi/ros2ws) by extensions ['python_setup_py']
+[2.044s] Level 1:colcon.colcon_core.package_identification:_identify(/home/rmi/ros2ws) by extension 'python_setup_py'
+[2.044s] Level 1:colcon.colcon_core.package_identification:_identify(/home/rmi/ros2ws/build) by extensions ['ignore', 'ignore_ament_install']
+[2.047s] Level 1:colcon.colcon_core.package_identification:_identify(/home/rmi/ros2ws/build) by extension 'ignore'
+[2.047s] Level 1:colcon.colcon_core.package_identification:_identify(/home/rmi/ros2ws/build) ignored
+[2.047s] Level 1:colcon.colcon_core.package_identification:_identify(/home/rmi/ros2ws/install) by extensions ['ignore', 'ignore_ament_install']
+[2.048s] Level 1:colcon.colcon_core.package_identification:_identify(/home/rmi/ros2ws/install) by extension 'ignore'
+[2.048s] Level 1:colcon.colcon_core.package_identification:_identify(/home/rmi/ros2ws/install) ignored
+[2.048s] Level 1:colcon.colcon_core.package_identification:_identify(/home/rmi/ros2ws/log) by extensions ['ignore', 'ignore_ament_install']
+[2.048s] Level 1:colcon.colcon_core.package_identification:_identify(/home/rmi/ros2ws/log) by extension 'ignore'
+[2.048s] Level 1:colcon.colcon_core.package_identification:_identify(/home/rmi/ros2ws/log) ignored
+[2.051s] Level 1:colcon.colcon_core.package_identification:_identify(/home/rmi/ros2ws/src) by extensions ['ignore', 'ignore_ament_install']
+[2.051s] Level 1:colcon.colcon_core.package_identification:_identify(/home/rmi/ros2ws/src) by extension 'ignore'
+[2.052s] Level 1:colcon.colcon_core.package_identification:_identify(/home/rmi/ros2ws/src) by extension 'ignore_ament_install'
+[2.052s] Level 1:colcon.colcon_core.package_identification:_identify(/home/rmi/ros2ws/src) by extensions ['colcon_pkg']
+[2.052s] Level 1:colcon.colcon_core.package_identification:_identify(/home/rmi/ros2ws/src) by extension 'colcon_pkg'
+[2.052s] Level 1:colcon.colcon_core.package_identification:_identify(/home/rmi/ros2ws/src) by extensions ['colcon_meta']
+[2.052s] Level 1:colcon.colcon_core.package_identification:_identify(/home/rmi/ros2ws/src) by extension 'colcon_meta'
+[2.052s] Level 1:colcon.colcon_core.package_identification:_identify(/home/rmi/ros2ws/src) by extensions ['ros']
+[2.052s] Level 1:colcon.colcon_core.package_identification:_identify(/home/rmi/ros2ws/src) by extension 'ros'
+[2.055s] Level 1:colcon.colcon_core.package_identification:_identify(/home/rmi/ros2ws/src) by extensions ['cmake', 'python']
+[2.055s] Level 1:colcon.colcon_core.package_identification:_identify(/home/rmi/ros2ws/src) by extension 'cmake'
+[2.055s] Level 1:colcon.colcon_core.package_identification:_identify(/home/rmi/ros2ws/src) by extension 'python'
+[2.055s] Level 1:colcon.colcon_core.package_identification:_identify(/home/rmi/ros2ws/src) by extensions ['python_setup_py']
+[2.055s] Level 1:colcon.colcon_core.package_identification:_identify(/home/rmi/ros2ws/src) by extension 'python_setup_py'
+[2.056s] Level 1:colcon.colcon_core.package_identification:_identify(/home/rmi/ros2ws/src/serial_motor_demo) by extensions ['ignore', 'ignore_ament_install']
+[2.056s] Level 1:colcon.colcon_core.package_identification:_identify(/home/rmi/ros2ws/src/serial_motor_demo) by extension 'ignore'
+[2.056s] Level 1:colcon.colcon_core.package_identification:_identify(/home/rmi/ros2ws/src/serial_motor_demo) by extension 'ignore_ament_install'
+[2.059s] Level 1:colcon.colcon_core.package_identification:_identify(/home/rmi/ros2ws/src/serial_motor_demo) by extensions ['colcon_pkg']
+[2.059s] Level 1:colcon.colcon_core.package_identification:_identify(/home/rmi/ros2ws/src/serial_motor_demo) by extension 'colcon_pkg'
+[2.059s] Level 1:colcon.colcon_core.package_identification:_identify(/home/rmi/ros2ws/src/serial_motor_demo) by extensions ['colcon_meta']
+[2.059s] Level 1:colcon.colcon_core.package_identification:_identify(/home/rmi/ros2ws/src/serial_motor_demo) by extension 'colcon_meta'
+[2.059s] Level 1:colcon.colcon_core.package_identification:_identify(/home/rmi/ros2ws/src/serial_motor_demo) by extensions ['ros']
+[2.059s] Level 1:colcon.colcon_core.package_identification:_identify(/home/rmi/ros2ws/src/serial_motor_demo) by extension 'ros'
+[2.060s] Level 1:colcon.colcon_core.package_identification:_identify(/home/rmi/ros2ws/src/serial_motor_demo) by extensions ['cmake', 'python']
+[2.060s] Level 1:colcon.colcon_core.package_identification:_identify(/home/rmi/ros2ws/src/serial_motor_demo) by extension 'cmake'
+[2.060s] Level 1:colcon.colcon_core.package_identification:_identify(/home/rmi/ros2ws/src/serial_motor_demo) by extension 'python'
+[2.060s] Level 1:colcon.colcon_core.package_identification:_identify(/home/rmi/ros2ws/src/serial_motor_demo) by extensions ['python_setup_py']
+[2.060s] Level 1:colcon.colcon_core.package_identification:_identify(/home/rmi/ros2ws/src/serial_motor_demo) by extension 'python_setup_py'
+[2.063s] Level 1:colcon.colcon_core.package_identification:_identify(/home/rmi/ros2ws/src/serial_motor_demo/serial_motor_demo) by extensions ['ignore', 'ignore_ament_install']
+[2.063s] Level 1:colcon.colcon_core.package_identification:_identify(/home/rmi/ros2ws/src/serial_motor_demo/serial_motor_demo) by extension 'ignore'
+[2.064s] Level 1:colcon.colcon_core.package_identification:_identify(/home/rmi/ros2ws/src/serial_motor_demo/serial_motor_demo) by extension 'ignore_ament_install'
+[2.064s] Level 1:colcon.colcon_core.package_identification:_identify(/home/rmi/ros2ws/src/serial_motor_demo/serial_motor_demo) by extensions ['colcon_pkg']
+[2.064s] Level 1:colcon.colcon_core.package_identification:_identify(/home/rmi/ros2ws/src/serial_motor_demo/serial_motor_demo) by extension 'colcon_pkg'
+[2.064s] Level 1:colcon.colcon_core.package_identification:_identify(/home/rmi/ros2ws/src/serial_motor_demo/serial_motor_demo) by extensions ['colcon_meta']
+[2.064s] Level 1:colcon.colcon_core.package_identification:_identify(/home/rmi/ros2ws/src/serial_motor_demo/serial_motor_demo) by extension 'colcon_meta'
+[2.067s] Level 1:colcon.colcon_core.package_identification:_identify(/home/rmi/ros2ws/src/serial_motor_demo/serial_motor_demo) by extensions ['ros']
+[2.067s] Level 1:colcon.colcon_core.package_identification:_identify(/home/rmi/ros2ws/src/serial_motor_demo/serial_motor_demo) by extension 'ros'
+[2.092s] DEBUG:colcon.colcon_core.package_identification:Package '/home/rmi/ros2ws/src/serial_motor_demo/serial_motor_demo' with type 'ros.ament_python' and name 'serial_motor_demo'
+[2.095s] Level 1:colcon.colcon_core.package_identification:_identify(/home/rmi/ros2ws/src/serial_motor_demo/serial_motor_demo_msgs) by extensions ['ignore', 'ignore_ament_install']
+[2.096s] Level 1:colcon.colcon_core.package_identification:_identify(/home/rmi/ros2ws/src/serial_motor_demo/serial_motor_demo_msgs) by extension 'ignore'
+[2.096s] Level 1:colcon.colcon_core.package_identification:_identify(/home/rmi/ros2ws/src/serial_motor_demo/serial_motor_demo_msgs) by extension 'ignore_ament_install'
+[2.099s] Level 1:colcon.colcon_core.package_identification:_identify(/home/rmi/ros2ws/src/serial_motor_demo/serial_motor_demo_msgs) by extensions ['colcon_pkg']
+[2.099s] Level 1:colcon.colcon_core.package_identification:_identify(/home/rmi/ros2ws/src/serial_motor_demo/serial_motor_demo_msgs) by extension 'colcon_pkg'
+[2.099s] Level 1:colcon.colcon_core.package_identification:_identify(/home/rmi/ros2ws/src/serial_motor_demo/serial_motor_demo_msgs) by extensions ['colcon_meta']
+[2.099s] Level 1:colcon.colcon_core.package_identification:_identify(/home/rmi/ros2ws/src/serial_motor_demo/serial_motor_demo_msgs) by extension 'colcon_meta'
+[2.100s] Level 1:colcon.colcon_core.package_identification:_identify(/home/rmi/ros2ws/src/serial_motor_demo/serial_motor_demo_msgs) by extensions ['ros']
+[2.100s] Level 1:colcon.colcon_core.package_identification:_identify(/home/rmi/ros2ws/src/serial_motor_demo/serial_motor_demo_msgs) by extension 'ros'
+[2.103s] DEBUG:colcon.colcon_core.package_identification:Package '/home/rmi/ros2ws/src/serial_motor_demo/serial_motor_demo_msgs' with type 'ros.ament_cmake' and name 'serial_motor_demo_msgs'
+[2.103s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) using defaults

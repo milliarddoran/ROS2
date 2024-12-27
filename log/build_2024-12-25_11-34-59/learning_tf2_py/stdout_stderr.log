@@ -1,0 +1,27 @@
+running develop
+Removing /home/rmi/ros2ws/install/learning_tf2_py/lib/python3.10/site-packages/learning-tf2-py.egg-link (link to .)
+running egg_info
+writing ../../build/learning_tf2_py/learning_tf2_py.egg-info/PKG-INFO
+writing dependency_links to ../../build/learning_tf2_py/learning_tf2_py.egg-info/dependency_links.txt
+writing entry points to ../../build/learning_tf2_py/learning_tf2_py.egg-info/entry_points.txt
+writing requirements to ../../build/learning_tf2_py/learning_tf2_py.egg-info/requires.txt
+writing top-level names to ../../build/learning_tf2_py/learning_tf2_py.egg-info/top_level.txt
+reading manifest file '../../build/learning_tf2_py/learning_tf2_py.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../../build/learning_tf2_py/learning_tf2_py.egg-info/SOURCES.txt'
+running build
+running build_py
+running install
+running install_lib
+creating /home/rmi/ros2ws/install/learning_tf2_py/lib/python3.10/site-packages/learning_tf2_py
+copying /home/rmi/ros2ws/build/learning_tf2_py/build/lib/learning_tf2_py/__init__.py -> /home/rmi/ros2ws/install/learning_tf2_py/lib/python3.10/site-packages/learning_tf2_py
+copying /home/rmi/ros2ws/build/learning_tf2_py/build/lib/learning_tf2_py/static_turtle_tf2_broadcaster.py -> /home/rmi/ros2ws/install/learning_tf2_py/lib/python3.10/site-packages/learning_tf2_py
+byte-compiling /home/rmi/ros2ws/install/learning_tf2_py/lib/python3.10/site-packages/learning_tf2_py/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/rmi/ros2ws/install/learning_tf2_py/lib/python3.10/site-packages/learning_tf2_py/static_turtle_tf2_broadcaster.py to static_turtle_tf2_broadcaster.cpython-310.pyc
+running install_data
+copying resource/learning_tf2_py -> /home/rmi/ros2ws/install/learning_tf2_py/share/ament_index/resource_index/packages
+copying package.xml -> /home/rmi/ros2ws/install/learning_tf2_py/share/learning_tf2_py
+running install_egg_info
+Copying ../../build/learning_tf2_py/learning_tf2_py.egg-info to /home/rmi/ros2ws/install/learning_tf2_py/lib/python3.10/site-packages/learning_tf2_py-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/rmi/ros2ws/build/learning_tf2_py/install.log'

@@ -1,0 +1,27 @@
+[0.015s] Invoking command in '/home/rmi/ros2ws/build/my_robot_bringup': CMAKE_PREFIX_PATH=/home/rmi/ros2ws/install/my_robot_description:/home/rmi/ros2ws/install/serial_motor_demo_msgs:/home/rmi/ros2ws/install/my_robot_bringup:/home/rmi/ros2ws/install/differential_drive_robot:/home/rmi/ros2ws/install/serial_motor_demo:/home/rmi/ros2ws/install/learning_tf2_py:/opt/ros/humble /usr/bin/cmake --build /home/rmi/ros2ws/build/my_robot_bringup -- -j8 -l8
+[0.059s] Invoked command in '/home/rmi/ros2ws/build/my_robot_bringup' returned '0': CMAKE_PREFIX_PATH=/home/rmi/ros2ws/install/my_robot_description:/home/rmi/ros2ws/install/serial_motor_demo_msgs:/home/rmi/ros2ws/install/my_robot_bringup:/home/rmi/ros2ws/install/differential_drive_robot:/home/rmi/ros2ws/install/serial_motor_demo:/home/rmi/ros2ws/install/learning_tf2_py:/opt/ros/humble /usr/bin/cmake --build /home/rmi/ros2ws/build/my_robot_bringup -- -j8 -l8
+[0.061s] Invoking command in '/home/rmi/ros2ws/build/my_robot_bringup': CMAKE_PREFIX_PATH=/home/rmi/ros2ws/install/my_robot_description:/home/rmi/ros2ws/install/serial_motor_demo_msgs:/home/rmi/ros2ws/install/my_robot_bringup:/home/rmi/ros2ws/install/differential_drive_robot:/home/rmi/ros2ws/install/serial_motor_demo:/home/rmi/ros2ws/install/learning_tf2_py:/opt/ros/humble /usr/bin/cmake --install /home/rmi/ros2ws/build/my_robot_bringup
+[0.071s] -- Install configuration: ""
+[0.071s] -- Execute custom install script
+[0.071s] -- Up-to-date symlink: /home/rmi/ros2ws/install/my_robot_bringup/share/my_robot_bringup//launch/my_robot_gazebo.launch.xml
+[0.071s] -- Up-to-date symlink: /home/rmi/ros2ws/install/my_robot_bringup/share/my_robot_bringup//launch/my_robot_gazebo.launch.xmlZone.Identifier
+[0.072s] -- Up-to-date symlink: /home/rmi/ros2ws/install/my_robot_bringup/share/my_robot_bringup//rviz/urdf_config.rviz
+[0.072s] -- Up-to-date symlink: /home/rmi/ros2ws/install/my_robot_bringup/share/my_robot_bringup//rviz/urdf_config.rvizZone.Identifier
+[0.072s] -- Up-to-date symlink: /home/rmi/ros2ws/install/my_robot_bringup/share/my_robot_bringup//worlds/test_world.world
+[0.072s] -- Up-to-date symlink: /home/rmi/ros2ws/install/my_robot_bringup/share/my_robot_bringup//worlds/test_world.worldZone.Identifier
+[0.072s] -- Up-to-date symlink: /home/rmi/ros2ws/install/my_robot_bringup/share/ament_index/resource_index/package_run_dependencies/my_robot_bringup
+[0.072s] -- Up-to-date symlink: /home/rmi/ros2ws/install/my_robot_bringup/share/ament_index/resource_index/parent_prefix_path/my_robot_bringup
+[0.073s] -- Up-to-date symlink: /home/rmi/ros2ws/install/my_robot_bringup/share/my_robot_bringup/environment/ament_prefix_path.sh
+[0.073s] -- Up-to-date symlink: /home/rmi/ros2ws/install/my_robot_bringup/share/my_robot_bringup/environment/ament_prefix_path.dsv
+[0.073s] -- Up-to-date symlink: /home/rmi/ros2ws/install/my_robot_bringup/share/my_robot_bringup/environment/path.sh
+[0.073s] -- Up-to-date symlink: /home/rmi/ros2ws/install/my_robot_bringup/share/my_robot_bringup/environment/path.dsv
+[0.073s] -- Up-to-date symlink: /home/rmi/ros2ws/install/my_robot_bringup/share/my_robot_bringup/local_setup.bash
+[0.073s] -- Up-to-date symlink: /home/rmi/ros2ws/install/my_robot_bringup/share/my_robot_bringup/local_setup.sh
+[0.074s] -- Up-to-date symlink: /home/rmi/ros2ws/install/my_robot_bringup/share/my_robot_bringup/local_setup.zsh
+[0.074s] -- Up-to-date symlink: /home/rmi/ros2ws/install/my_robot_bringup/share/my_robot_bringup/local_setup.dsv
+[0.074s] -- Symlinking: /home/rmi/ros2ws/install/my_robot_bringup/share/my_robot_bringup/package.dsv
+[0.084s] -- Up-to-date symlink: /home/rmi/ros2ws/install/my_robot_bringup/share/ament_index/resource_index/packages/my_robot_bringup
+[0.084s] -- Up-to-date symlink: /home/rmi/ros2ws/install/my_robot_bringup/share/my_robot_bringup/cmake/my_robot_bringupConfig.cmake
+[0.084s] -- Up-to-date symlink: /home/rmi/ros2ws/install/my_robot_bringup/share/my_robot_bringup/cmake/my_robot_bringupConfig-version.cmake
+[0.085s] -- Up-to-date symlink: /home/rmi/ros2ws/install/my_robot_bringup/share/my_robot_bringup/package.xml
+[0.093s] Invoked command in '/home/rmi/ros2ws/build/my_robot_bringup' returned '0': CMAKE_PREFIX_PATH=/home/rmi/ros2ws/install/my_robot_description:/home/rmi/ros2ws/install/serial_motor_demo_msgs:/home/rmi/ros2ws/install/my_robot_bringup:/home/rmi/ros2ws/install/differential_drive_robot:/home/rmi/ros2ws/install/serial_motor_demo:/home/rmi/ros2ws/install/learning_tf2_py:/opt/ros/humble /usr/bin/cmake --install /home/rmi/ros2ws/build/my_robot_bringup

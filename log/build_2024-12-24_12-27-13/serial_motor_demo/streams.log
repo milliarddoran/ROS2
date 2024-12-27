@@ -1,0 +1,24 @@
+[0.659s] Invoking command in '/home/rmi/ros2ws/src/serial_motor_demo/serial_motor_demo': PYTHONPATH=/home/rmi/ros2ws/build/serial_motor_demo/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rmi/ros2ws/install/serial_motor_demo/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/serial_motor_demo build --build-base /home/rmi/ros2ws/build/serial_motor_demo/build install --record /home/rmi/ros2ws/build/serial_motor_demo/install.log --install-scripts $base/lib/serial_motor_demo --single-version-externally-managed install_data
+[0.897s] /usr/lib/python3/dist-packages/setuptools/dist.py:723: UserWarning: Usage of dash-separated 'script-dir' will not be supported in future versions. Please use the underscore name 'script_dir' instead
+[0.897s]   warnings.warn(
+[0.906s] running egg_info
+[0.906s] writing ../../../build/serial_motor_demo/serial_motor_demo.egg-info/PKG-INFO
+[0.907s] writing dependency_links to ../../../build/serial_motor_demo/serial_motor_demo.egg-info/dependency_links.txt
+[0.907s] writing entry points to ../../../build/serial_motor_demo/serial_motor_demo.egg-info/entry_points.txt
+[0.907s] writing requirements to ../../../build/serial_motor_demo/serial_motor_demo.egg-info/requires.txt
+[0.907s] writing top-level names to ../../../build/serial_motor_demo/serial_motor_demo.egg-info/top_level.txt
+[0.909s] reading manifest file '../../../build/serial_motor_demo/serial_motor_demo.egg-info/SOURCES.txt'
+[0.921s] writing manifest file '../../../build/serial_motor_demo/serial_motor_demo.egg-info/SOURCES.txt'
+[0.921s] running build
+[0.921s] running build_py
+[0.922s] running install
+[0.923s] running install_lib
+[0.926s] running install_data
+[0.926s] running install_egg_info
+[0.930s] removing '/home/rmi/ros2ws/install/serial_motor_demo/lib/python3.10/site-packages/serial_motor_demo-0.0.0-py3.10.egg-info' (and everything under it)
+[0.931s] Copying ../../../build/serial_motor_demo/serial_motor_demo.egg-info to /home/rmi/ros2ws/install/serial_motor_demo/lib/python3.10/site-packages/serial_motor_demo-0.0.0-py3.10.egg-info
+[0.935s] running install_scripts
+[0.977s] Installing driver script to /home/rmi/ros2ws/install/serial_motor_demo/lib/serial_motor_demo
+[0.978s] Installing gui script to /home/rmi/ros2ws/install/serial_motor_demo/lib/serial_motor_demo
+[0.978s] writing list of installed files to '/home/rmi/ros2ws/build/serial_motor_demo/install.log'
+[1.002s] Invoked command in '/home/rmi/ros2ws/src/serial_motor_demo/serial_motor_demo' returned '0': PYTHONPATH=/home/rmi/ros2ws/build/serial_motor_demo/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rmi/ros2ws/install/serial_motor_demo/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/serial_motor_demo build --build-base /home/rmi/ros2ws/build/serial_motor_demo/build install --record /home/rmi/ros2ws/build/serial_motor_demo/install.log --install-scripts $base/lib/serial_motor_demo --single-version-externally-managed install_data

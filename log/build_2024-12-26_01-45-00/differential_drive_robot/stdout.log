@@ -1,0 +1,17 @@
+-- Install configuration: ""
+-- Execute custom install script
+-- Up-to-date symlink: /home/rmi/ros2ws/install/differential_drive_robot/share/ament_index/resource_index/package_run_dependencies/differential_drive_robot
+-- Up-to-date symlink: /home/rmi/ros2ws/install/differential_drive_robot/share/ament_index/resource_index/parent_prefix_path/differential_drive_robot
+-- Up-to-date symlink: /home/rmi/ros2ws/install/differential_drive_robot/share/differential_drive_robot/environment/ament_prefix_path.sh
+-- Up-to-date symlink: /home/rmi/ros2ws/install/differential_drive_robot/share/differential_drive_robot/environment/ament_prefix_path.dsv
+-- Up-to-date symlink: /home/rmi/ros2ws/install/differential_drive_robot/share/differential_drive_robot/environment/path.sh
+-- Up-to-date symlink: /home/rmi/ros2ws/install/differential_drive_robot/share/differential_drive_robot/environment/path.dsv
+-- Up-to-date symlink: /home/rmi/ros2ws/install/differential_drive_robot/share/differential_drive_robot/local_setup.bash
+-- Up-to-date symlink: /home/rmi/ros2ws/install/differential_drive_robot/share/differential_drive_robot/local_setup.sh
+-- Up-to-date symlink: /home/rmi/ros2ws/install/differential_drive_robot/share/differential_drive_robot/local_setup.zsh
+-- Up-to-date symlink: /home/rmi/ros2ws/install/differential_drive_robot/share/differential_drive_robot/local_setup.dsv
+-- Symlinking: /home/rmi/ros2ws/install/differential_drive_robot/share/differential_drive_robot/package.dsv
+-- Up-to-date symlink: /home/rmi/ros2ws/install/differential_drive_robot/share/ament_index/resource_index/packages/differential_drive_robot
+-- Up-to-date symlink: /home/rmi/ros2ws/install/differential_drive_robot/share/differential_drive_robot/cmake/differential_drive_robotConfig.cmake
+-- Up-to-date symlink: /home/rmi/ros2ws/install/differential_drive_robot/share/differential_drive_robot/cmake/differential_drive_robotConfig-version.cmake
+-- Up-to-date symlink: /home/rmi/ros2ws/install/differential_drive_robot/share/differential_drive_robot/package.xml

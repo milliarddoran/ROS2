@@ -1,0 +1,42 @@
+[0.332s] Invoking command in '/home/rmi/ros2ws/build/differential_drive_robot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/rmi/ros2ws/install/serial_motor_demo:/opt/ros/humble /usr/bin/cmake /home/rmi/ros2ws/src/differential_drive_robot -DCMAKE_INSTALL_PREFIX=/home/rmi/ros2ws/install/differential_drive_robot
+[1.652s] -- The C compiler identification is GNU 11.4.0
+[2.788s] -- The CXX compiler identification is GNU 11.4.0
+[2.936s] -- Detecting C compiler ABI info
+[4.076s] -- Detecting C compiler ABI info - done
+[4.180s] -- Check for working C compiler: /usr/bin/cc - skipped
+[4.184s] -- Detecting C compile features
+[4.184s] -- Detecting C compile features - done
+[4.240s] -- Detecting CXX compiler ABI info
+[5.392s] -- Detecting CXX compiler ABI info - done
+[5.532s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[5.536s] -- Detecting CXX compile features
+[5.536s] -- Detecting CXX compile features - done
+[5.572s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[7.616s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[8.700s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[9.468s] -- Added test 'lint_cmake' to check CMake code style
+[9.480s] -- Added test 'xmllint' to check XML markup files
+[9.492s] -- Configuring done
+[9.540s] -- Generating done
+[9.568s] -- Build files have been written to: /home/rmi/ros2ws/build/differential_drive_robot
+[10.444s] Invoked command in '/home/rmi/ros2ws/build/differential_drive_robot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/rmi/ros2ws/install/serial_motor_demo:/opt/ros/humble /usr/bin/cmake /home/rmi/ros2ws/src/differential_drive_robot -DCMAKE_INSTALL_PREFIX=/home/rmi/ros2ws/install/differential_drive_robot
+[10.448s] Invoking command in '/home/rmi/ros2ws/build/differential_drive_robot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/rmi/ros2ws/install/serial_motor_demo:/opt/ros/humble /usr/bin/cmake --build /home/rmi/ros2ws/build/differential_drive_robot -- -j8 -l8
+[11.044s] Invoked command in '/home/rmi/ros2ws/build/differential_drive_robot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/rmi/ros2ws/install/serial_motor_demo:/opt/ros/humble /usr/bin/cmake --build /home/rmi/ros2ws/build/differential_drive_robot -- -j8 -l8
+[11.076s] Invoking command in '/home/rmi/ros2ws/build/differential_drive_robot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/rmi/ros2ws/install/serial_motor_demo:/opt/ros/humble /usr/bin/cmake --install /home/rmi/ros2ws/build/differential_drive_robot
+[11.168s] -- Install configuration: ""
+[11.176s] -- Installing: /home/rmi/ros2ws/install/differential_drive_robot/share/ament_index/resource_index/package_run_dependencies/differential_drive_robot
+[11.180s] -- Installing: /home/rmi/ros2ws/install/differential_drive_robot/share/ament_index/resource_index/parent_prefix_path/differential_drive_robot
+[11.184s] -- Installing: /home/rmi/ros2ws/install/differential_drive_robot/share/differential_drive_robot/environment/ament_prefix_path.sh
+[11.188s] -- Installing: /home/rmi/ros2ws/install/differential_drive_robot/share/differential_drive_robot/environment/ament_prefix_path.dsv
+[11.192s] -- Installing: /home/rmi/ros2ws/install/differential_drive_robot/share/differential_drive_robot/environment/path.sh
+[11.200s] -- Installing: /home/rmi/ros2ws/install/differential_drive_robot/share/differential_drive_robot/environment/path.dsv
+[11.216s] -- Installing: /home/rmi/ros2ws/install/differential_drive_robot/share/differential_drive_robot/local_setup.bash
+[11.216s] -- Installing: /home/rmi/ros2ws/install/differential_drive_robot/share/differential_drive_robot/local_setup.sh
+[11.216s] -- Installing: /home/rmi/ros2ws/install/differential_drive_robot/share/differential_drive_robot/local_setup.zsh
+[11.224s] -- Installing: /home/rmi/ros2ws/install/differential_drive_robot/share/differential_drive_robot/local_setup.dsv
+[11.224s] -- Installing: /home/rmi/ros2ws/install/differential_drive_robot/share/differential_drive_robot/package.dsv
+[11.228s] -- Installing: /home/rmi/ros2ws/install/differential_drive_robot/share/ament_index/resource_index/packages/differential_drive_robot
+[11.228s] -- Installing: /home/rmi/ros2ws/install/differential_drive_robot/share/differential_drive_robot/cmake/differential_drive_robotConfig.cmake
+[11.232s] -- Installing: /home/rmi/ros2ws/install/differential_drive_robot/share/differential_drive_robot/cmake/differential_drive_robotConfig-version.cmake
+[11.232s] -- Installing: /home/rmi/ros2ws/install/differential_drive_robot/share/differential_drive_robot/package.xml
+[11.264s] Invoked command in '/home/rmi/ros2ws/build/differential_drive_robot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/rmi/ros2ws/install/serial_motor_demo:/opt/ros/humble /usr/bin/cmake --install /home/rmi/ros2ws/build/differential_drive_robot

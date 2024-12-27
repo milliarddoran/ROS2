@@ -1,0 +1,21 @@
+[0.051s] Invoking command in '/home/rmi/ros2ws/build/differential_drive_robot': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/rmi/ros2ws/build/differential_drive_robot -- -j8 -l8
+[0.611s] Invoked command in '/home/rmi/ros2ws/build/differential_drive_robot' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/rmi/ros2ws/build/differential_drive_robot -- -j8 -l8
+[0.616s] Invoking command in '/home/rmi/ros2ws/build/differential_drive_robot': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/rmi/ros2ws/build/differential_drive_robot
+[0.686s] -- Install configuration: ""
+[0.689s] -- Execute custom install script
+[0.689s] -- Up-to-date symlink: /home/rmi/ros2ws/install/differential_drive_robot/share/ament_index/resource_index/package_run_dependencies/differential_drive_robot
+[0.690s] -- Up-to-date symlink: /home/rmi/ros2ws/install/differential_drive_robot/share/ament_index/resource_index/parent_prefix_path/differential_drive_robot
+[0.690s] -- Up-to-date symlink: /home/rmi/ros2ws/install/differential_drive_robot/share/differential_drive_robot/environment/ament_prefix_path.sh
+[0.690s] -- Up-to-date symlink: /home/rmi/ros2ws/install/differential_drive_robot/share/differential_drive_robot/environment/ament_prefix_path.dsv
+[0.696s] -- Up-to-date symlink: /home/rmi/ros2ws/install/differential_drive_robot/share/differential_drive_robot/environment/path.sh
+[0.697s] -- Up-to-date symlink: /home/rmi/ros2ws/install/differential_drive_robot/share/differential_drive_robot/environment/path.dsv
+[0.697s] -- Up-to-date symlink: /home/rmi/ros2ws/install/differential_drive_robot/share/differential_drive_robot/local_setup.bash
+[0.697s] -- Up-to-date symlink: /home/rmi/ros2ws/install/differential_drive_robot/share/differential_drive_robot/local_setup.sh
+[0.697s] -- Up-to-date symlink: /home/rmi/ros2ws/install/differential_drive_robot/share/differential_drive_robot/local_setup.zsh
+[0.697s] -- Up-to-date symlink: /home/rmi/ros2ws/install/differential_drive_robot/share/differential_drive_robot/local_setup.dsv
+[0.697s] -- Symlinking: /home/rmi/ros2ws/install/differential_drive_robot/share/differential_drive_robot/package.dsv
+[0.711s] -- Up-to-date symlink: /home/rmi/ros2ws/install/differential_drive_robot/share/ament_index/resource_index/packages/differential_drive_robot
+[0.712s] -- Up-to-date symlink: /home/rmi/ros2ws/install/differential_drive_robot/share/differential_drive_robot/cmake/differential_drive_robotConfig.cmake
+[0.712s] -- Up-to-date symlink: /home/rmi/ros2ws/install/differential_drive_robot/share/differential_drive_robot/cmake/differential_drive_robotConfig-version.cmake
+[0.712s] -- Up-to-date symlink: /home/rmi/ros2ws/install/differential_drive_robot/share/differential_drive_robot/package.xml
+[0.801s] Invoked command in '/home/rmi/ros2ws/build/differential_drive_robot' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/rmi/ros2ws/build/differential_drive_robot

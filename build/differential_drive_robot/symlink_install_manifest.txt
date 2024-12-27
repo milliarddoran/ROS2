@@ -1,0 +1,15 @@
+/home/rmi/ros2ws/install/differential_drive_robot/share/ament_index/resource_index/package_run_dependencies/differential_drive_robot
+/home/rmi/ros2ws/install/differential_drive_robot/share/ament_index/resource_index/parent_prefix_path/differential_drive_robot
+/home/rmi/ros2ws/install/differential_drive_robot/share/differential_drive_robot/environment/ament_prefix_path.sh
+/home/rmi/ros2ws/install/differential_drive_robot/share/differential_drive_robot/environment/ament_prefix_path.dsv
+/home/rmi/ros2ws/install/differential_drive_robot/share/differential_drive_robot/environment/path.sh
+/home/rmi/ros2ws/install/differential_drive_robot/share/differential_drive_robot/environment/path.dsv
+/home/rmi/ros2ws/install/differential_drive_robot/share/differential_drive_robot/local_setup.bash
+/home/rmi/ros2ws/install/differential_drive_robot/share/differential_drive_robot/local_setup.sh
+/home/rmi/ros2ws/install/differential_drive_robot/share/differential_drive_robot/local_setup.zsh
+/home/rmi/ros2ws/install/differential_drive_robot/share/differential_drive_robot/local_setup.dsv
+/home/rmi/ros2ws/install/differential_drive_robot/share/differential_drive_robot/package.dsv
+/home/rmi/ros2ws/install/differential_drive_robot/share/ament_index/resource_index/packages/differential_drive_robot
+/home/rmi/ros2ws/install/differential_drive_robot/share/differential_drive_robot/cmake/differential_drive_robotConfig.cmake
+/home/rmi/ros2ws/install/differential_drive_robot/share/differential_drive_robot/cmake/differential_drive_robotConfig-version.cmake
+/home/rmi/ros2ws/install/differential_drive_robot/share/differential_drive_robot/package.xml

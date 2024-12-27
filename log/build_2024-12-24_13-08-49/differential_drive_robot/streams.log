@@ -1,0 +1,31 @@
+[0.028s] Invoking command in '/home/rmi/ros2ws/build/differential_drive_robot': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/rmi/ros2ws/src/differential_drive_robot -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/rmi/ros2ws/install/differential_drive_robot
+[0.057s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.231s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.287s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.411s] -- Added test 'lint_cmake' to check CMake code style
+[0.414s] -- Added test 'xmllint' to check XML markup files
+[0.419s] -- Configuring done
+[0.428s] -- Generating done
+[0.431s] -- Build files have been written to: /home/rmi/ros2ws/build/differential_drive_robot
+[0.439s] Invoked command in '/home/rmi/ros2ws/build/differential_drive_robot' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/rmi/ros2ws/src/differential_drive_robot -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/rmi/ros2ws/install/differential_drive_robot
+[0.440s] Invoking command in '/home/rmi/ros2ws/build/differential_drive_robot': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/rmi/ros2ws/build/differential_drive_robot -- -j8 -l8
+[0.509s] Invoked command in '/home/rmi/ros2ws/build/differential_drive_robot' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/rmi/ros2ws/build/differential_drive_robot -- -j8 -l8
+[0.511s] Invoking command in '/home/rmi/ros2ws/build/differential_drive_robot': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/rmi/ros2ws/build/differential_drive_robot
+[0.522s] -- Install configuration: ""
+[0.523s] -- Execute custom install script
+[0.523s] -- Up-to-date symlink: /home/rmi/ros2ws/install/differential_drive_robot/share/ament_index/resource_index/package_run_dependencies/differential_drive_robot
+[0.524s] -- Up-to-date symlink: /home/rmi/ros2ws/install/differential_drive_robot/share/ament_index/resource_index/parent_prefix_path/differential_drive_robot
+[0.524s] -- Up-to-date symlink: /home/rmi/ros2ws/install/differential_drive_robot/share/differential_drive_robot/environment/ament_prefix_path.sh
+[0.524s] -- Up-to-date symlink: /home/rmi/ros2ws/install/differential_drive_robot/share/differential_drive_robot/environment/ament_prefix_path.dsv
+[0.525s] -- Up-to-date symlink: /home/rmi/ros2ws/install/differential_drive_robot/share/differential_drive_robot/environment/path.sh
+[0.525s] -- Up-to-date symlink: /home/rmi/ros2ws/install/differential_drive_robot/share/differential_drive_robot/environment/path.dsv
+[0.525s] -- Up-to-date symlink: /home/rmi/ros2ws/install/differential_drive_robot/share/differential_drive_robot/local_setup.bash
+[0.529s] -- Up-to-date symlink: /home/rmi/ros2ws/install/differential_drive_robot/share/differential_drive_robot/local_setup.sh
+[0.529s] -- Up-to-date symlink: /home/rmi/ros2ws/install/differential_drive_robot/share/differential_drive_robot/local_setup.zsh
+[0.529s] -- Up-to-date symlink: /home/rmi/ros2ws/install/differential_drive_robot/share/differential_drive_robot/local_setup.dsv
+[0.529s] -- Symlinking: /home/rmi/ros2ws/install/differential_drive_robot/share/differential_drive_robot/package.dsv
+[0.541s] -- Up-to-date symlink: /home/rmi/ros2ws/install/differential_drive_robot/share/ament_index/resource_index/packages/differential_drive_robot
+[0.542s] -- Up-to-date symlink: /home/rmi/ros2ws/install/differential_drive_robot/share/differential_drive_robot/cmake/differential_drive_robotConfig.cmake
+[0.542s] -- Up-to-date symlink: /home/rmi/ros2ws/install/differential_drive_robot/share/differential_drive_robot/cmake/differential_drive_robotConfig-version.cmake
+[0.543s] -- Up-to-date symlink: /home/rmi/ros2ws/install/differential_drive_robot/share/differential_drive_robot/package.xml
+[0.552s] Invoked command in '/home/rmi/ros2ws/build/differential_drive_robot' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/rmi/ros2ws/build/differential_drive_robot

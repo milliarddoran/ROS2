@@ -1,0 +1,16 @@
+running develop
+running egg_info
+writing learning_tf2_py.egg-info/PKG-INFO
+writing dependency_links to learning_tf2_py.egg-info/dependency_links.txt
+writing entry points to learning_tf2_py.egg-info/entry_points.txt
+writing requirements to learning_tf2_py.egg-info/requires.txt
+writing top-level names to learning_tf2_py.egg-info/top_level.txt
+reading manifest file 'learning_tf2_py.egg-info/SOURCES.txt'
+writing manifest file 'learning_tf2_py.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/rmi/ros2ws/install/learning_tf2_py/lib/python3.10/site-packages/learning-tf2-py.egg-link (link to .)
+
+Installed /home/rmi/ros2ws/build/learning_tf2_py
+running symlink_data
+symbolically linking /home/rmi/ros2ws/build/learning_tf2_py/resource/learning_tf2_py -> /home/rmi/ros2ws/install/learning_tf2_py/share/ament_index/resource_index/packages
+symbolically linking /home/rmi/ros2ws/build/learning_tf2_py/package.xml -> /home/rmi/ros2ws/install/learning_tf2_py/share/learning_tf2_py

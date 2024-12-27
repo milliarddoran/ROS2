@@ -1,0 +1,23 @@
+[0.719s] Invoking command in '/home/rmi/ros2ws/src/build/learning_tf2_py': PYTHONPATH=/home/rmi/ros2ws/src/build/learning_tf2_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rmi/ros2ws/src/install/learning_tf2_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/rmi/ros2ws/src/build/learning_tf2_py/build --no-deps symlink_data
+[0.998s] running develop
+[1.198s] running egg_info
+[1.199s] creating learning_tf2_py.egg-info
+[1.199s] writing learning_tf2_py.egg-info/PKG-INFO
+[1.200s] writing dependency_links to learning_tf2_py.egg-info/dependency_links.txt
+[1.200s] writing entry points to learning_tf2_py.egg-info/entry_points.txt
+[1.201s] writing requirements to learning_tf2_py.egg-info/requires.txt
+[1.201s] writing top-level names to learning_tf2_py.egg-info/top_level.txt
+[1.202s] writing manifest file 'learning_tf2_py.egg-info/SOURCES.txt'
+[1.204s] reading manifest file 'learning_tf2_py.egg-info/SOURCES.txt'
+[1.205s] writing manifest file 'learning_tf2_py.egg-info/SOURCES.txt'
+[1.208s] running build_ext
+[1.210s] Creating /home/rmi/ros2ws/src/install/learning_tf2_py/lib/python3.10/site-packages/learning-tf2-py.egg-link (link to .)
+[1.211s] 
+[1.211s] Installed /home/rmi/ros2ws/src/build/learning_tf2_py
+[1.211s] running symlink_data
+[1.211s] creating /home/rmi/ros2ws/src/install/learning_tf2_py/share/ament_index
+[1.211s] creating /home/rmi/ros2ws/src/install/learning_tf2_py/share/ament_index/resource_index
+[1.212s] creating /home/rmi/ros2ws/src/install/learning_tf2_py/share/ament_index/resource_index/packages
+[1.212s] symbolically linking /home/rmi/ros2ws/src/build/learning_tf2_py/resource/learning_tf2_py -> /home/rmi/ros2ws/src/install/learning_tf2_py/share/ament_index/resource_index/packages
+[1.212s] symbolically linking /home/rmi/ros2ws/src/build/learning_tf2_py/package.xml -> /home/rmi/ros2ws/src/install/learning_tf2_py/share/learning_tf2_py
+[1.248s] Invoked command in '/home/rmi/ros2ws/src/build/learning_tf2_py' returned '0': PYTHONPATH=/home/rmi/ros2ws/src/build/learning_tf2_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rmi/ros2ws/src/install/learning_tf2_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/rmi/ros2ws/src/build/learning_tf2_py/build --no-deps symlink_data
